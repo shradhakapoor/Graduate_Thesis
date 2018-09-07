@@ -1,4 +1,8 @@
 ''' Optimal or near optimal solutions to the serial batching problem under weighted average completion '''
+# author : Shradha Kapoor
+# date : September 6, 2018
+# python_version : 3.6
+
 
 # s -- selection time
 s = 1
